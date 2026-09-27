@@ -1,4 +1,4 @@
--- Active: 1790168927777@@127.0.0.1@5432@superstore
+-- Active: 1790534484644@@127.0.0.1@5432@superstore
 -- Active: 1790168927777@@127.0.0.1@5432@Northwind-- Active: 1790168927777@@127.0.0.1@5432@superstore-- Active: 1790168927777@@127.0.0.1@5432@Northwind
 CREATE TABLE customers (
     customer_id VARCHAR(20) PRIMARY KEY,
