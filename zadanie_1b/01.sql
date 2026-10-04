@@ -20,6 +20,8 @@ CREATE TABLE flourmills_sales (
     order_channel VARCHAR(100) NOT NULL,
     batch_number INT NOT NULL,
     production_date DATE NOT NULL,
-    total_amount DECIMAL(10, 2) NOT NULL,
+    total_amount DECIMAL(10, 2) NOT NULL
 
 )
+
+SELECT * FROM flourmills_sales;
