@@ -1,0 +1,18 @@
+id,name,department,salary,gender,age,hire_date,city
+1,Employee_001,IT,95179,Female,44,2018-07-10,Banska Bystrica
+7,Employee_007,IT,105831,Male,54,2020-03-10,Presov
+13,Employee_013,IT,74478,Male,53,2024-02-20,Trnava
+19,Employee_019,IT,77595,Female,41,2016-11-19,Nitra
+25,Employee_025,IT,66524,Male,58,2025-12-05,Presov
+31,Employee_031,IT,99907,Male,55,2018-11-16,Kosice
+37,Employee_037,IT,68391,Male,21,2024-02-01,Banska Bystrica
+43,Employee_043,IT,84297,Male,39,2024-01-16,Presov
+49,Employee_049,IT,93369,Female,58,2020-09-21,Zilina
+55,Employee_055,IT,102286,Female,58,2017-04-04,Kosice
+61,Employee_061,IT,104718,Female,32,2019-01-17,Nitra
+67,Employee_067,IT,105057,Female,42,2023-08-13,Bratislava
+73,Employee_073,IT,89285,Male,40,2021-02-17,Trnava
+79,Employee_079,IT,76562,Male,46,2025-05-20,Presov
+85,Employee_085,IT,70985,Female,55,2019-03-21,Banska Bystrica
+91,Employee_091,IT,79780,Female,22,2021-10-06,Zilina
+97,Employee_097,IT,105289,Male,47,2020-12-08,Trnava

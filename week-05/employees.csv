@@ -1,0 +1,101 @@
+id,name,department,salary,gender,age,hire_date,city
+1,Employee_001,IT,95179,Female,44,2018-07-10,Banska Bystrica
+2,Employee_002,Operations,76907,Female,50,2021-10-07,Presov
+3,Employee_003,Marketing,58305,Male,36,2024-01-09,Trnava
+4,Employee_004,HR,53635,Male,42,2018-03-24,Bratislava
+5,Employee_005,Sales,57830,Female,53,2018-10-01,Presov
+6,Employee_006,Finance,53640,Female,31,2017-10-11,Nitra
+7,Employee_007,IT,105831,Male,54,2020-03-10,Presov
+8,Employee_008,Operations,55567,Female,48,2021-01-15,Presov
+9,Employee_009,Marketing,73744,Male,24,2018-09-16,Nitra
+10,Employee_010,HR,56379,Female,34,2018-03-22,Bratislava
+11,Employee_011,Sales,104033,Male,53,2023-03-06,Banska Bystrica
+12,Employee_012,Finance,94091,Female,55,2018-09-06,Trnava
+13,Employee_013,IT,74478,Male,53,2024-02-20,Trnava
+14,Employee_014,Operations,63671,Male,40,2018-01-26,Zilina
+15,Employee_015,Marketing,57571,Male,36,2022-07-14,Presov
+16,Employee_016,HR,72864,Male,44,2018-12-23,Banska Bystrica
+17,Employee_017,Sales,85723,Female,41,2023-07-07,Nitra
+18,Employee_018,Finance,94490,Female,38,2020-05-03,Nitra
+19,Employee_019,IT,77595,Female,41,2016-11-19,Nitra
+20,Employee_020,Operations,69321,Male,48,2016-02-09,Bratislava
+21,Employee_021,Marketing,58008,Female,57,2023-07-13,Kosice
+22,Employee_022,HR,48701,Male,38,2025-04-18,Banska Bystrica
+23,Employee_023,Sales,79194,Female,21,2022-09-08,Presov
+24,Employee_024,Finance,56365,Female,28,2017-04-03,Banska Bystrica
+25,Employee_025,IT,66524,Male,58,2025-12-05,Presov
+26,Employee_026,Operations,73221,Female,45,2018-07-03,Nitra
+27,Employee_027,Marketing,48784,Male,25,2017-04-20,Nitra
+28,Employee_028,HR,47790,Male,32,2019-03-04,Zilina
+29,Employee_029,Sales,87354,Female,34,2023-07-16,Presov
+30,Employee_030,Finance,74126,Female,25,2021-02-20,Bratislava
+31,Employee_031,IT,99907,Male,55,2018-11-16,Kosice
+32,Employee_032,Operations,42490,Female,26,2016-12-25,Presov
+33,Employee_033,Marketing,45157,Female,29,2024-06-03,Nitra
+34,Employee_034,HR,71460,Male,32,2021-11-22,Presov
+35,Employee_035,Sales,52028,Male,51,2020-05-31,Banska Bystrica
+36,Employee_036,Finance,94860,Female,55,2016-03-26,Nitra
+37,Employee_037,IT,68391,Male,21,2024-02-01,Banska Bystrica
+38,Employee_038,Operations,67863,Male,23,2017-09-24,Kosice
+39,Employee_039,Marketing,81550,Female,48,2020-07-04,Kosice
+40,Employee_040,HR,63140,Male,42,2024-02-07,Presov
+41,Employee_041,Sales,100901,Female,57,2019-01-28,Zilina
+42,Employee_042,Finance,80104,Male,57,2020-08-15,Nitra
+43,Employee_043,IT,84297,Male,39,2024-01-16,Presov
+44,Employee_044,Operations,58653,Female,51,2024-04-06,Presov
+45,Employee_045,Marketing,73686,Female,30,2018-02-15,Nitra
+46,Employee_046,HR,59896,Female,55,2017-09-08,Banska Bystrica
+47,Employee_047,Sales,85471,Female,24,2016-09-23,Kosice
+48,Employee_048,Finance,53758,Male,28,2025-04-10,Trnava
+49,Employee_049,IT,93369,Female,58,2020-09-21,Zilina
+50,Employee_050,Operations,61485,Female,32,2023-03-06,Banska Bystrica
+51,Employee_051,Marketing,62641,Male,36,2021-05-17,Banska Bystrica
+52,Employee_052,HR,49158,Male,40,2023-07-07,Presov
+53,Employee_053,Sales,95287,Female,60,2019-07-15,Trnava
+54,Employee_054,Finance,68659,Female,27,2016-04-15,Nitra
+55,Employee_055,IT,102286,Female,58,2017-04-04,Kosice
+56,Employee_056,Operations,75189,Male,23,2016-04-08,Nitra
+57,Employee_057,Marketing,71906,Male,56,2019-11-07,Trnava
+58,Employee_058,HR,58369,Male,46,2016-06-08,Kosice
+59,Employee_059,Sales,88290,Male,46,2017-08-30,Bratislava
+60,Employee_060,Finance,55777,Female,28,2025-03-27,Nitra
+61,Employee_061,IT,104718,Female,32,2019-01-17,Nitra
+62,Employee_062,Operations,54085,Male,42,2017-02-15,Trnava
+63,Employee_063,Marketing,45423,Male,41,2022-04-20,Presov
+64,Employee_064,HR,43574,Male,30,2018-09-11,Zilina
+65,Employee_065,Sales,62220,Male,36,2022-08-07,Banska Bystrica
+66,Employee_066,Finance,70854,Male,40,2018-08-25,Trnava
+67,Employee_067,IT,105057,Female,42,2023-08-13,Bratislava
+68,Employee_068,Operations,51061,Female,45,2016-12-18,Zilina
+69,Employee_069,Marketing,74493,Male,48,2019-12-19,Zilina
+70,Employee_070,HR,56097,Female,27,2016-01-26,Presov
+71,Employee_071,Sales,103136,Female,46,2024-10-24,Kosice
+72,Employee_072,Finance,52474,Male,53,2024-02-16,Presov
+73,Employee_073,IT,89285,Male,40,2021-02-17,Trnava
+74,Employee_074,Operations,59800,Male,43,2017-10-21,Presov
+75,Employee_075,Marketing,68564,Male,27,2016-12-07,Zilina
+76,Employee_076,HR,42233,Male,29,2023-03-22,Trnava
+77,Employee_077,Sales,52671,Female,52,2021-04-08,Nitra
+78,Employee_078,Finance,82228,Female,25,2021-02-26,Kosice
+79,Employee_079,IT,76562,Male,46,2025-05-20,Presov
+80,Employee_080,Operations,70167,Female,44,2024-02-04,Presov
+81,Employee_081,Marketing,83666,Male,53,2016-11-23,Presov
+82,Employee_082,HR,46165,Female,41,2020-05-05,Zilina
+83,Employee_083,Sales,46330,Female,45,2020-04-18,Banska Bystrica
+84,Employee_084,Finance,54173,Male,32,2024-12-28,Zilina
+85,Employee_085,IT,70985,Female,55,2019-03-21,Banska Bystrica
+86,Employee_086,Operations,44459,Male,24,2016-05-30,Zilina
+87,Employee_087,Marketing,67922,Male,23,2022-01-12,Banska Bystrica
+88,Employee_088,HR,52928,Male,39,2020-06-21,Zilina
+89,Employee_089,Sales,72347,Male,23,2019-08-10,Trnava
+90,Employee_090,Finance,64754,Male,45,2018-08-27,Trnava
+91,Employee_091,IT,79780,Female,22,2021-10-06,Zilina
+92,Employee_092,Operations,46158,Male,40,2021-05-21,Kosice
+93,Employee_093,Marketing,78002,Female,32,2017-06-15,Bratislava
+94,Employee_094,HR,64637,Female,27,2017-04-19,Zilina
+95,Employee_095,Sales,79961,Female,53,2024-11-27,Presov
+96,Employee_096,Finance,61661,Female,33,2024-10-27,Zilina
+97,Employee_097,IT,105289,Male,47,2020-12-08,Trnava
+98,Employee_098,Operations,70704,Male,54,2021-05-11,Presov
+99,Employee_099,Marketing,81407,Male,52,2021-08-01,Nitra
+100,Employee_100,HR,67931,Female,43,2023-07-08,Banska Bystrica

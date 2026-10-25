@@ -1,0 +1,27 @@
+id,name,department,salary,gender,age,hire_date,city
+1,Employee_001,IT,95179,Female,44,2018-07-10,Banska Bystrica
+7,Employee_007,IT,105831,Male,54,2020-03-10,Presov
+11,Employee_011,Sales,104033,Male,53,2023-03-06,Banska Bystrica
+12,Employee_012,Finance,94091,Female,55,2018-09-06,Trnava
+17,Employee_017,Sales,85723,Female,41,2023-07-07,Nitra
+18,Employee_018,Finance,94490,Female,38,2020-05-03,Nitra
+29,Employee_029,Sales,87354,Female,34,2023-07-16,Presov
+31,Employee_031,IT,99907,Male,55,2018-11-16,Kosice
+36,Employee_036,Finance,94860,Female,55,2016-03-26,Nitra
+39,Employee_039,Marketing,81550,Female,48,2020-07-04,Kosice
+41,Employee_041,Sales,100901,Female,57,2019-01-28,Zilina
+42,Employee_042,Finance,80104,Male,57,2020-08-15,Nitra
+43,Employee_043,IT,84297,Male,39,2024-01-16,Presov
+47,Employee_047,Sales,85471,Female,24,2016-09-23,Kosice
+49,Employee_049,IT,93369,Female,58,2020-09-21,Zilina
+53,Employee_053,Sales,95287,Female,60,2019-07-15,Trnava
+55,Employee_055,IT,102286,Female,58,2017-04-04,Kosice
+59,Employee_059,Sales,88290,Male,46,2017-08-30,Bratislava
+61,Employee_061,IT,104718,Female,32,2019-01-17,Nitra
+67,Employee_067,IT,105057,Female,42,2023-08-13,Bratislava
+71,Employee_071,Sales,103136,Female,46,2024-10-24,Kosice
+73,Employee_073,IT,89285,Male,40,2021-02-17,Trnava
+78,Employee_078,Finance,82228,Female,25,2021-02-26,Kosice
+81,Employee_081,Marketing,83666,Male,53,2016-11-23,Presov
+97,Employee_097,IT,105289,Male,47,2020-12-08,Trnava
+99,Employee_099,Marketing,81407,Male,52,2021-08-01,Nitra
