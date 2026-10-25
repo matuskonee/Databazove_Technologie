@@ -1,0 +1,14 @@
+issue,severity,affected_rows,percentage
+invalid_order_id,error,0,0.0
+duplicate_order_id,error,22,11.0
+missing_customer,error,22,11.0
+invalid_region,error,0,0.0
+invalid_product,error,31,15.5
+invalid_quantity,error,24,12.0
+invalid_sales_amount,error,12,6.0
+invalid_discount,error,20,10.0
+invalid_order_date,error,3,1.5
+invalid_delivery_date,error,10,5.0
+delivery_before_order,error,18,9.0
+missing_phone,warning,38,19.0
+invalid_phone,warning,34,17.0
